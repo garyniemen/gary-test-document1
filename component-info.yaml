@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: gary-test-document1
+  description: gary-test-document1
+  annotations:
+    github.com/project-slug: garyniemen/gary-test-document1
+    backstage.io/techdocs-ref: github:https://github.com/garyniemen/gary-test-document1
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: garyniemen

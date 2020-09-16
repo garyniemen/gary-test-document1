@@ -1,0 +1,8 @@
+site_name: gary-test-document1
+site_description: gary-test-document1
+
+nav: 
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
